@@ -1,0 +1,1 @@
+FoundationHttpClientDemo.Server.exe -delete
